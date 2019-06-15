@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hackintosh-EFI-Asus-407UB
 A nearly perfect EFI for Asus A407UB(X407UB)
 =======
