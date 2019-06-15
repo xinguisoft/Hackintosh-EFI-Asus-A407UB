@@ -1,6 +1,6 @@
 # Hackintosh-EFI-Asus-A407UB
 A nearly perfect EFI for Asus A407UB(X407UB)
-=======
+----------------------------------------------
 Supports from 10.13.6(17G2112) ~ 10.14.5(18F132)
 
 **Attention!!! OpenCore is not supported yet!!!**
