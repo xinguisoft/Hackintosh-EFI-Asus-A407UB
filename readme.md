@@ -1,8 +1,6 @@
-# Hackintosh-EFI-Asus-407UB
+# Hackintosh-EFI-Asus-A407UB
 A nearly perfect EFI for Asus A407UB(X407UB)
 =======
-Hackintosh-EFI-Asus-A407UB
-=====
 Supports from 10.13.6(17G2112) ~ 10.14.5(18F132)
 
 **Attention!!! OpenCore is not supported yet!!!**
@@ -62,4 +60,3 @@ Supports from 10.13.6(17G2112) ~ 10.14.5(18F132)
 ![USB3.1](./assets/USB.png)
 
 Still completing...
->>>>>>> first A407UB commit
