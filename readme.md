@@ -3,7 +3,7 @@ A nearly perfect EFI for Asus A407UB(X407UB)
 ----------------------------------------------
 Supports from 10.13.6(17G2112) ~ 10.14.5(18F132)
 
-**Attention!!! OpenCore is not supported yet!!!**
+**Attention!!! OpenCore is only supported yet!!!**
 
 ## Computer Configuration
 
@@ -33,11 +33,9 @@ Supports from 10.13.6(17G2112) ~ 10.14.5(18F132)
 - [x] Graphics
 - [x] CPU clock speed changing
 - [x] Wireless and  Bluetooth
+- [x] Trackpad (Available after sleep )
+- [x] Fn Keys
 
-## Worked Devices with Small Issues
-
-- Trackpad (Available after sleep )
-- Fn keys  
 
 ## Gallery
 
